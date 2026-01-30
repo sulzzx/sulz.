@@ -37,7 +37,7 @@ body {
 }
 
 .logo:hover {
-  color: #009dcf
+  color: #0078D7
 }
 
 .navbar {
@@ -61,7 +61,7 @@ body {
 
 .navbar a:hover,
 .navbar a.active {
-    color: #009dcf;
+    color: #0078D7;
 }
 
 .toggle {
@@ -79,7 +79,7 @@ body {
 }
 
 .toggle:hover {
-  color: #009dcf;
+  color: #0078D7;
 }
 
 
@@ -149,7 +149,7 @@ body {
 }
 
 .RedPeak:hover {
-  color: #009dcf;
+  color: #0078D7;
 }
 
 .home {
@@ -191,7 +191,7 @@ body {
 }
 
 .home-content h3 span {
-    color: #009dcf;
+    color: #0078D7;
 }
 
 .home-content h1 {
@@ -232,7 +232,7 @@ body {
   margin-top: 1px;
   height: 40px;
   background: transparent;
-  border: 2px solid #009dcf;
+  border: 2px solid #0078D7;
   border-radius: 50%;
   font-size: 20px;
   color: #009dcf;
@@ -245,17 +245,17 @@ body {
 }
 
 .social-media a:hover {
-    background: #009dcf;
+    background: #0078D7;
     color: #1f242d;
-    box-shadow: 0 0 20px #009dcf;
+    box-shadow: 0 0 20px #0078D7;
 }
 
 .btn {
     display: inline-block;
     padding: 12px 28px;
-    background: #009dcf;
+    background: #0078D7;
     border-radius: 40px;
-    box-shadow: 0 0 10px #009dcf;
+    box-shadow: 0 0 10px #0078D7;
     font-size: 16px;
     color: #1f242d;
     letter-spacing: 1px;
@@ -306,7 +306,7 @@ body {
         top: 60px;
         right: 20px;
         background: #0f1c2e;
-        border: 1px solid #009dcf;
+        border: 1px solid #0078D7;
         border-radius: 8px;
         padding: 10px 0;
         width: 200px;
@@ -331,7 +331,7 @@ body {
   }
 
   .navbar a:hover {
-    background: #009dcf;
+    background: #0078D7;
     color: #1f242d;
   }
 
@@ -343,7 +343,7 @@ body {
     top: 60px;
     right: 20px;
     background: #0f1c2e;
-    border: 1px solid #009dcf;
+    border: 1px solid #0078D7;
     border-radius: 8px;
     padding: 10px 0;
     width: 200px;
@@ -547,6 +547,7 @@ body {
         transform: translateY(0);
     }
 }
+
 
 
 
